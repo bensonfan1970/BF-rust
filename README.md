@@ -11,3 +11,7 @@ cargo 1.72.0 (103a7ff2e 2023-08-15)
 
 $ rustc --version
 rustc 1.72.0 (5680fa18f 2023-08-23)
+
+To run the code:
+1. cd <charpter folder>
+2. cargo run
